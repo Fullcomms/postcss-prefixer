@@ -1,10 +1,4 @@
 # postcss-prefixer
-[![Build Status](https://travis-ci.org/marceloucker/postcss-prefixer.svg?branch=master)](https://travis-ci.org/marceloucker/postcss-prefixer) [![dependencies Status](https://david-dm.org/marceloucker/postcss-prefixer/status.svg)](https://david-dm.org/marceloucker/postcss-prefixer) [![devDependencies Status](https://david-dm.org/marceloucker/postcss-prefixer/dev-status.svg)](https://david-dm.org/marceloucker/postcss-prefixer?type=dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-[PostCSS]: https://github.com/postcss/postcss
-[PostCSS Usage]: https://github.com/postcss/postcss#usage
-
 A [PostCSS] plugin to prefix css selectors.
 
 ````css
