@@ -55,4 +55,4 @@ mix.options({
 
 ## Credits
 
- Plugin based on [postcss-class-prefix](https://github.com/thompsongl/postcss-class-prefix) create by [thompsongl](https://github.com/thompsongl). Forked by [Danny](https://github.com/DannyFullComms) for [FullComms](https://github.com/Fullcomms)
+ Plugin based on [postcss-class-prefix](https://github.com/thompsongl/postcss-class-prefix) create by [thompsongl](https://github.com/thompsongl). Forked & modified by [Danny](https://github.com/DannyFullComms) for [FullComms](https://github.com/Fullcomms)
